@@ -30,7 +30,7 @@ Currently, I am seeking international opportunities to contribute to cutting-edg
 
 ## Certifications
 
-- **AWS Certified Cloud Practitioner – Associate**  
+- **AWS Certified Cloud Practitioner**  
 - **Microsoft Certified: Azure Fundamentals**  
 
 ---
