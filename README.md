@@ -1,36 +1,50 @@
-# Phelipe R. Santos
+# Phelipe Rodovalho
 
-**Software Engineer | Python, C# .NET, Go**
+**Software Engineer | Backend Development | Golang | AWS (1x Certified) | Azure (1x Certified) | Distributed Systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/phelipe-rodovalho-ufu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/phelipe-rodovalho)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/phRodovalho)
 
 ---
 
 ## About Me
 
-I am a Software Engineer with a Bachelor's degree in Information Systems from the Federal University of Uberlândia (UFU) and currently pursuing a Master's in Data Science. My expertise includes developing impactful solutions using Python, C# .NET, and Go, particularly in cloud environments (AWS and Azure) and distributed systems.
+I am a **Software Engineer** with extensive experience in **backend development**, specializing in **Golang**, **distributed systems**, and **cloud-native solutions** (AWS & Azure). Over the years, I have designed and implemented **high-performance, scalable systems** for financial transactions, IoT, and energy monitoring, leveraging technologies like **Golang, C# .NET, Python, and cloud platforms (AWS, Azure)**.
 
-I have a strong background in data science, having presented my undergraduate thesis at the 2024 Brazilian Symposium on Databases (SBBD), the leading Latin American event in Big Data and Data Engineering. Additionally, I have experience in process automation with Python bots, Machine Learning (ML), and Natural Language Processing (NLP).
+My expertise includes building **RESTful APIs**, **microservices architectures**, and **event-driven systems**, with a strong focus on **resilience, low latency, and high availability**. I am passionate about **innovation, automation, and AI-driven solutions**, and I thrive in environments where I can collaborate with global teams to push the boundaries of technology.
 
-As a former programming and robotics educator at UFU, I contributed to the development of young talent and published academic articles on educational robotics. I also have hands-on experience with embedded systems (ESP32, LoRa, Raspberry Pi) and database management.
+Currently, I am seeking international opportunities to contribute to cutting-edge projects in **backend development, distributed systems, and cloud engineering**.
 
-My technical skills include developing RESTful APIs, applying MVC and SOLID principles, and implementing innovative solutions in cloud and back-end environments.
+---
 
-I am eager to bring my expertise to international teams and am open to opportunities where I can contribute to impactful, cutting-edge projects.
+## Technical Expertise
+
+- **Programming Languages:** Golang, C# .NET, Python, JavaScript
+- **Cloud Platforms:** AWS (DynamoDB, RDS, S3, Lambda, ECS, API Gateway), Azure (Functions, Cosmos DB, Kubernetes)
+- **Backend Development:** RESTful APIs, microservices, Domain-Driven Design (DDD), SOLID principles, hexagonal architecture
+- **Distributed Systems:** High-performance transaction processing, event-driven architectures, orchestration & choreography
+- **Data Engineering:** Big Data, real-time processing, ETL pipelines, data modeling
+- **DevOps & Tools:** Docker, Kubernetes, CI/CD pipelines, unit testing (xUnit)
+
+---
+
+## Certifications
+
+- **AWS Certified Cloud Practitioner – Associate**  
+- **Microsoft Certified: Azure Fundamentals**  
 
 ---
 
 ## Skills
 
-- **Programming Languages:** Python, C# .NET, Go, JavaScript, PHP, C/C++
-- **Web Development:** React, TypeScript
-- **Cloud Platforms:** AWS, Azure
-- **Technologies:** RESTful APIs, MVC, SOLID principles, Machine Learning, Natural Language Processing
-- **Embedded Systems:** ESP32, LoRa, Raspberry Pi
+- **Programming Languages:** Golang, C# .NET, Python, JavaScript, PHP, C/C++  
+- **Web Development:** React, TypeScript  
+- **Cloud Platforms:** AWS, Azure  
+- **Technologies:** RESTful APIs, MVC, SOLID principles, Machine Learning, Natural Language Processing  
+- **Embedded Systems:** ESP32, LoRa, Raspberry Pi  
 
 ---
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/phelipe-rodovalho-ufu/) or explore more of my work on [GitHub](https://github.com/phRodovalho). I am open to discussing potential collaborations and opportunities.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/phelipe-rodovalho) or explore more of my work on [GitHub](https://github.com/phRodovalho).  
